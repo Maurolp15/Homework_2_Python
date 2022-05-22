@@ -1,4 +1,4 @@
-## PyBank
+# PyBank
 
 My name is Oscar Lopez, an University of Miami FinTech Bootcamp student. 
 
